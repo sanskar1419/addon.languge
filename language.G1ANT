@@ -1,0 +1,14 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+♥number = 2
+♥total = ♥number + ♥number
+dialog ♥total
+dialog.ask message ‴What is your favorite number?‴ result ♥number
+dialog message ‴Your favorite number is: ♥number‴
+program notepad
+keyboard ‴Hello! I'm a robot.‴
+program notepad
+keyboard ‴Hello!⋘enter⋙I'm a robot.‴
+keyboard ⋘alt+o⋙f⋘tab 2⋙20⋘enter⋙
+keyboard ⋘ctrl+h⋙robot⋘tab⋙G1ANT.Robot⋘alt+a⋙⋘alt+f4⋙
+keyboard ⋘ctrl+s⋙robot⋘enter⋙⋘alt+f4⋙
